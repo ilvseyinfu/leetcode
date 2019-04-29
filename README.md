@@ -1,5 +1,13 @@
 # leetcode
-..
 
+stack
 
-树 ...
+queue
+
+tree
+
+linklist
+
+dp
+
+...
